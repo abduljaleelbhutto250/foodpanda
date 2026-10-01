@@ -1,0 +1,263 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.navbar {
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    margin-top: 20px;
+   
+}
+.iconbar ul{
+    display: flex;
+    justify-content:space-between;
+    list-style: none;
+    gap: 25px;
+    
+    
+}
+.iconbar a{
+    text-decoration: none;
+    color: black;
+
+}
+.buttonbar button{
+   background-color: yellow;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 10px;
+}
+/* =================Hero section ====================== */
+.div12{
+  color: white;
+  font-size: 70px;
+  margin-top: -15pc;
+ margin-bottom: 20pc;
+ margin-left: 8pc;
+}
+.button{
+  display: inline-block;
+  padding: 11px 28px;
+  background: deeppink;
+  color: white;
+  text-decoration: none;
+  border-radius: 20px;
+  margin-left: 8pc;
+  margin-top: -20pc;
+}
+
+ .part20{
+    height: 10pc;
+    text-align: center;
+    margin-top: -10pc;
+  padding: 20px;
+
+  }
+  /* ============= countries name section===================== */
+  .div30{
+   justify-items: center;
+   padding: 30px;
+   background-color: white;
+   height: 200px;
+   margin-bottom: -20px;
+ }
+
+ .div32{
+  margin: 25px;
+
+ }
+  .b32{
+    text-decoration: none;
+    border: 1px solid rgb(255, 128, 181) ;
+   border-radius: 25px;
+   color: deeppink;
+  padding: 5px;
+  margin: 10px;
+  
+
+  }
+  .div33{
+ 
+  margin-top:40px;
+  margin-bottom: 40px;
+
+ }
+  .b33{
+   text-decoration: none;
+    border: 1px solid rgb(255, 128, 181) ;
+   border-radius: 25px;
+   color: deeppink;
+  padding: 5px;
+  margin: 10px;
+
+  }
+
+ .b34{
+
+    text-decoration: none;
+    border: 1px solid rgb(255, 128, 181) ;
+   border-radius: 25px;
+   color: deeppink;
+  padding: 5px;
+   margin-right: 10px;
+
+  }
+ 
+
+  /* ===============================frist slide section========================*/
+  .partner40{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .partner40 h3{
+    font-size: 35px;
+    margin-bottom: 1pc;
+  }
+  .partner40 p{
+    font-size: 20px;
+  }
+  .partner40 button{
+    width: 100px;
+    background-color: rgb(235, 75, 102);
+    margin-top: 1pc;
+    color: white;
+    height: 2pc;
+    border-radius: 20px;
+  }
+  /* fifth section partner */
+  .partner50{
+    margin-top: 5pc;
+    text-align: center;
+    font-size: 30px;
+  }
+  .partner50 h3{
+    margin-bottom: 2pc;
+    text-align: left;
+    margin-left: 3pc;
+  }
+  .partner51{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 3pc;
+  }
+  .partner52{
+    border: 2px solid;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .partner53{
+    border: 2px solid;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }.partner54{
+    border: 2px solid;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }.partner55{
+    border: 2px solid;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .partner60{
+    background-color: rgb(231, 228, 228);
+    margin-top: 5pc;
+   
+    padding-bottom: 3pc;
+    text-align: center;
+  }
+  .partner60 h3{
+    padding-top: 2pc;
+    font-size: 30px;
+
+  }
+  .partner61{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 4px;
+  }
+  .partner62{
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 1pc;
+  }
+  .partner63{
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 1pc;
+  }
+  .partner64{
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 1pc;
+  }
+  .partner65{
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 1pc;
+  }
+
+
+  .partner70{
+    margin-top: 2pc;
+    margin-bottom: 2pc;
+    text-align: center;
+  
+  }
+  .partner70 h3{
+    font-size: 30px;
+    margin-bottom: 2pc;
+    margin-bottom: 3pc;
+  }
+
+  /* footer saction */
+.footer{
+    background-color: rgba(54, 50, 50, 0.856);
+    color: white;
+    padding: 20px;
+    height: 250px;
+    margin-top: 3pc;
+}
+.footer2{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 50px;
+}
+.footer3 ul{
+  margin-top: 10px;
+    list-style: none;
+}
+.footer3 a{
+  color: white;
+  text-decoration: none;
+}
+.footer4 ul{
+  list-style: none;
+  margin-top: 10px;
+}
+.footer4 a{
+  text-decoration: none;
+  color: white;
+}
+.footer5 a{
+  text-decoration: none;
+  color: white;
+  
+}
+.footer5 ul{
+  list-style: none;
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+  font-size: 30px;
+}

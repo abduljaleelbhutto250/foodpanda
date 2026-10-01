@@ -1,0 +1,222 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* ==================== nav bar ============================= */
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+}
+.menu ul{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    align-items: center;
+    height: 60px;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+}
+.menu button{
+    padding: 10px;
+    width: 150px;
+    background-color: orange;
+    border-radius: 20px;
+}
+.menu button:hover{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+/* ========================= hero section ============================== */
+.hero h1 {
+    color: white;
+    margin-top: -350px;
+    margin-left: 100px;
+    font-size: 50px;
+
+}
+
+.hero p{
+    color: white;
+    font-size: 15px;
+    margin-left: 100px;
+
+
+}
+.hero button{
+    padding: 10px;
+    margin-left: 100px;
+    width: 150px;
+    border-radius: 20px;
+}
+.div1{
+    margin-top: 170px;
+    text-align: center;    
+    font-size: 25px;
+}
+.div2{
+     display: flex;
+     justify-content: space-around;
+     background-color: rgb(197, 206, 206);
+     text-align: center;
+     height: 300px;
+     padding-top:30px;
+}
+.div3{
+    display: flex;
+    margin-top: 50px;
+
+
+}
+.div4{
+    display: flex;
+}
+.div0{
+    display: flex;
+    justify-content: space-around;
+    background-color: pink;
+    height: 50pc;
+}
+.div111{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 40pc;
+    text-align: center;
+ 
+}
+.class1{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(192, 196, 197);
+    
+    padding: 80px;
+}
+.class1 h2{
+    font-size: 40px;
+}
+.class1 button{
+    padding: 8px;
+    background-color:rgb(206, 42, 77);
+    border-radius: 20px;
+    width: 150px;
+}
+.animated-img {
+  width: 300px;         
+  /* animation: float 3s ease-in-out infinite; */
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10pc;
+  padding-left: 5pc;
+ 
+}
+.animated-img1 {
+  width: 300px;         
+  /* animation: float 3s ease-in-out infinite; */
+  display: flex;
+  justify-content: space-around;
+ 
+  padding-left: 5pc;
+ 
+}
+.img1:hover{
+     transform: scale(1.2); 1.2 means 20% zoom
+  z-index: 1;
+}
+.img2:hover{
+     transform: scale(1.2); 1.2 means 20% zoom
+  z-index: 1;
+}
+.img3:hover{
+     transform: scale(1.2); 1.2 means 20% zoom
+  z-index: 1;
+}
+.img4:hover{
+     transform: scale(1.2); 1.2 means 20% zoom
+  z-index: 1;
+}
+.img5:hover{
+     transform: scale(1.2); 1.2 means 20% zoom
+  z-index: 1;
+}
+.img6:hover{
+     transform: scale(1.2); 1.2 means 20% zoom
+  z-index: 1;
+}
+.img7:hover{
+     transform: scale(1.2); 1.2 means 20% zoom
+  z-index: 1;
+}
+.img8:hover{
+     transform: scale(1.2); 1.2 means 20% zoom
+  z-index: 1;
+}
+.img9:hover{
+     transform: scale(1.2); 1.2 means 20% zoom
+  z-index: 1;
+}
+.img10:hover{
+     transform: scale(1.2); 1.2 means 20% zoom
+  z-index: 1;
+}
+.img11:hover{
+     transform: scale(1.2); 1.2 means 20% zoom
+  z-index: 1;
+}
+.img12:hover{
+     transform: scale(1.2); 1.2 means 20% zoom
+  z-index: 1;
+}
+.img13:hover{
+     transform: scale(1.2); 1.2 means 20% zoom
+  z-index: 1;
+}
+.img14:hover{
+     transform: scale(1.2); 1.2 means 20% zoom
+  z-index: 1;
+}
+.img15:hover{
+     transform: scale(1.2); 1.2 means 20% zoom
+  z-index: 1;
+}
+.img16:hover{
+     transform: scale(1.2); 1.2 means 20% zoom
+  z-index: 1;
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0px) scale(1);
+  }
+  50% {
+    transform: translateY(-20px) scale(1.05);
+  }
+  100% {
+    transform: translateY(0px) scale(1);
+  }
+}
+
+.div5{
+    background-color: black;
+    height: 500px;
+    display: flex;
+    margin-top: 30px;
+}
+.div6{
+    margin-top: 200px;
+    margin-left: -250px
+}
+.div7{
+    margin-top: 200px;
+    margin-left: 30px;
+}
+.div8{
+    margin-top: 200px;
+    margin-left: 300px;
+}

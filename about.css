@@ -1,0 +1,228 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+ /* ================= navbar section ============ */
+
+.navbar {
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    margin-top: 20px;
+   
+}
+.iconbar ul{
+    display: flex;
+    justify-content:space-between;
+    list-style: none;
+    gap: 25px;
+    
+    
+}
+.iconbar a{
+    text-decoration: none;
+    color: black;
+
+}
+.buttonbar button{
+   background-color: rgb(224, 78, 127);
+   
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+}
+/* img section */
+ .about{
+  font-size: 80px;
+  margin-top: -15pc;
+  margin-left: 12pc;
+  color:white;
+ }
+
+/* Hero section */
+.div10{
+  margin-bottom: 50px;
+    margin-top: 6pc;
+    margin-left: 5pc;
+    color: black;
+ }
+ .div10a{
+  font-size: 40px;
+  margin-bottom: 10px;
+ }
+ /* slide section */
+ 
+ .customer{
+  font-size: 30px;
+  margin-bottom: 15px;
+ }
+
+
+/* our values section */
+ .div30{
+   justify-items: center;
+ 
+   padding-bottom: 30px;
+ 
+ }
+  .div31a{
+    padding-top: 30px;
+    font-size: 40px;
+    color: rgb(43, 42, 42);
+   
+  
+ }
+ .div32{
+  margin: 25px;
+
+ }
+  .b32{
+    text-decoration: none;
+    border: 1px solid rgb(255, 128, 181) ;
+   border-radius: 25px;
+   color: deeppink;
+  padding: 5px;
+
+  }
+  .div33{
+  margin: 25px;
+  margin-top:30px;
+  margin-bottom: 30px;
+
+ }
+  .b33{
+   text-decoration: none;
+    border: 1px solid rgb(255, 128, 181) ;
+   border-radius: 25px;
+   color: deeppink;
+  padding: 5px;
+  margin-right: 10px;
+
+  }
+
+  .b33a{
+
+   text-decoration: none;
+    border: 1px solid rgb(255, 128, 181) ;
+   border-radius: 25px;
+   color: deeppink;
+  padding: 5px;
+  
+
+  }
+    .div34{
+  margin: 25px;
+  
+
+ }
+ .b34{
+
+    text-decoration: none;
+    border: 1px solid rgb(255, 128, 181) ;
+   border-radius: 25px;
+   color: deeppink;
+  padding: 5px;
+   margin-right: 10px;
+
+  }
+  .b34a{
+
+     text-decoration: none;
+    border: 1px solid rgb(255, 128, 181) ;
+   border-radius: 25px;
+   color: deeppink;
+  padding: 5px;
+  
+
+  }
+    .div35{
+  margin: 25px;
+  margin-top: 30px;
+
+ }
+  .b35{
+ text-decoration: none;
+    border: 1px solid rgb(255, 128, 181) ;
+   border-radius: 25px;
+   color: deeppink;
+  padding: 5px;
+
+  }
+  /* second slide section */
+  .div40{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 200px;
+    
+   
+  }
+  /* second slide section */
+
+ 
+  /* panda section */
+  .div50{
+    width: 1320px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: rgb(238, 238, 238);
+    gap: 50px;
+  
+  }
+ .hameed1{
+  font-size: 40px;
+  margin-bottom: 10px;
+ }
+  .div51 a{
+    text-decoration: none;
+    color: white;
+  }
+ 
+  /* ============================= footer saction ====================== */
+.footer{
+    background-color: rgba(54, 50, 50, 0.856);
+    color: white;
+    padding: 20px;
+    height: 250px;
+    margin-top: 3pc;
+}
+.footer2{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 50px;
+}
+.footer3 ul{
+  margin-top: 10px;
+    list-style: none;
+}
+.footer3 a{
+  color: white;
+  text-decoration: none;
+}
+.footer4 ul{
+  list-style: none;
+  margin-top: 10px;
+}
+.footer4 a{
+  text-decoration: none;
+  color: white;
+}
+.footer5 a{
+  text-decoration: none;
+  color: white;
+  
+}
+.footer5 ul{
+  list-style: none;
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+  font-size: 30px;
+}

@@ -1,0 +1,165 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/* ================== navbar section ============================== */
+.navbar1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+}
+.menu ul{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    align-items: center;
+    height: 60px;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+}
+   
+.menu button{
+   margin-top: 10px;
+    width: 150px;
+    height: 40px;
+    background-color: orange;
+    border-radius: 20px;
+}
+.menu button:hover{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+/* ================ hero  setion=================== */
+.hero{
+    padding-bottom: 100px;
+    padding-left: 80px;
+    padding-top: 80px;
+    background-color: rgb(226, 228, 230);
+    
+}
+.hero h1{
+    font-size: 50px;
+}
+
+/* ================ value section ==================== */
+.value{
+    padding: 20px;
+    text-align: center;
+    font-size: 25px;
+}
+.images3{
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+}
+
+/* ============= convesion section ==================== */
+.conversion{
+    padding: 20px;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: rgb(231, 230, 230);
+}
+.conversion{
+    font-size: 35px;
+
+   
+}
+.conversion h3{
+    font-size: 35px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+
+}
+.btn1{
+    color: rgb(248, 99, 124);
+    margin: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+    border: 1px solid;
+    border-radius: 25px;
+ 
+    
+}
+
+/* ====================== solution section ==================== */
+.solution{
+    padding: 20px;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.solution h3{
+    font-size: 35px;
+}
+
+.solution1{
+    display: flex;
+    gap: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+/* ========================= media kit section ============================ */
+.media-kit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    background-color: rgb(238, 236, 236);
+    padding: 150px;
+}
+.media-kit h3{
+    font-size: 35px;
+}
+.btn10{
+    color: white;
+    text-decoration: none;
+    border: 1px solid rgb(255, 81, 110);
+    border-radius: 25px;
+    background-color:  rgb(255, 81, 110);
+    
+padding-left: 15px;
+padding-right: 15px;
+padding-bottom:5px;
+padding-top: 5px;
+ 
+    
+}
+/* ===================== last section ==================== */
+.last{
+    text-align: center;
+    padding: 50px;
+    background-color: rgb(235, 79, 79);
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}
+.last h3{
+    font-size: 40;
+    color: white;
+}
+.btn11a{
+    color: rgb(255, 81, 110);
+    text-decoration: none;
+    border: 1px solid rgb(255, 81, 110);
+    border-radius: 25px;
+   background-color: white;
+    height: 40px;
+    width: 150px;
+    text-align: center;
+
+
+    
+}
+/* ===================== footer section ======================= */

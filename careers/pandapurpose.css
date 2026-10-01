@@ -1,0 +1,150 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+/*  ========================= navbar section =========================== */
+
+.navbar1{
+
+  padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+}
+.img{
+  display: flex;
+  color: pink ;
+  align-items: center;
+  gap: 10px;
+}
+
+.a{
+  text-decoration: none;
+  color: black;
+    
+}
+
+.btn1{
+    text-decoration: none;
+    color: rgb(243, 11, 119);
+  
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 22px;
+   padding-right: 22px;
+}
+
+.navbar {
+  list-style: none;
+ gap: 30px;
+ margin-left: 300px;
+ 
+}
+
+.navbar li {
+  position: relative;
+}
+
+.navbar a {
+  color: black;
+  padding: 15px 20px;
+  display: block;
+  text-decoration: none;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  background: white;
+  list-style: none;
+  top: 100%;
+}
+
+.dropdown-menu a {
+  color: black;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+/* ==========================  hero section =========================== */
+.hero{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(255, 71, 102);
+  height: 250px;
+  align-items: center;
+}
+.hero h3{
+  font-size: 40px;
+}
+/* =============== last section -========================= */
+.last{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+  background-color: rgb(238, 225, 225);
+  padding: 20px;
+}
+
+.last2 h3{
+  font-size: 35px;
+  color: rgb(253, 9, 62);
+}
+
+.last2 a{
+  text-decoration: none;
+  color: white;
+  background-color: rgb(253, 9, 62);
+  border-radius: 15px;
+  padding: 10px;
+}
+
+
+  /* ============================= footer saction ====================== */
+.footer{
+    background-color: rgba(54, 50, 50, 0.856);
+    color: white;
+    padding: 20px;
+    height: 250px;
+    margin-top: 3pc;
+}
+.footer2{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 50px;
+}
+.footer3 ul{
+  margin-top: 10px;
+    list-style: none;
+}
+.footer3 a{
+  color: white;
+  text-decoration: none;
+}
+.footer4 ul{
+  list-style: none;
+  margin-top: 10px;
+}
+.footer4 a{
+  text-decoration: none;
+  color: white;
+}
+.footer5 a{
+  text-decoration: none;
+  color: white;
+  
+}
+.footer5 ul{
+  list-style: none;
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+  font-size: 30px;
+}
